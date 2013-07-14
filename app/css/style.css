@@ -1,0 +1,15 @@
+#testClass{
+	background-color: #9e6d6d;
+	padding: 10px 10px 10px 15px;
+}
+  
+
+.class2{
+	background-color: #9e6daa; /*@backgroundColor*/
+	padding: 10px;/*@padding*/
+	color:#ffffff;/*@textColor*/
+	border: 1px solid black;
+	border-color: #000000;/*@borderColor*/
+	border-width: 1px;/*@borderWidth*/
+	border-radius: 6px;/*@radius*/
+}
