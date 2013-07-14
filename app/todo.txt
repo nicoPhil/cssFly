@@ -1,7 +1,0 @@
-- dropdown pour créer des categories de trucs modifiés.
-- bouton apply pour reappliquer les styles si ca bouge.
-- sortir le css dans une classe a part
--ajouter prefixe css
-
-- exporter fichier css (demandera de préciser quel fichier on veut). 
-
